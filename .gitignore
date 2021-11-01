@@ -1,0 +1,4 @@
+# flask_tutorial .git ignore
+
+# virtual env
+flask_venv/
